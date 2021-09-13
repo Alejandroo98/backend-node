@@ -113,6 +113,10 @@ Es una sección corta pero enfocada en que puedan desplegar todo su trabajo en u
 
 ## INDICACIONES
 
+- Para poder ver que esta pasando en heroku con tu app
+  • Desde aqui podras ver tus mensajes en consola
+  • Ingresa esto desde la consola ( desde la ruta de la app ) -> heroku logs -n 1000 --tail
+
 =================================================
 ================ \*FIN SECCION 26 ===============
 =================================================
