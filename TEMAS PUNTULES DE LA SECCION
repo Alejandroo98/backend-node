@@ -1,0 +1,118 @@
+=================================================
+=================== SECCION 24 ==================
+=================================================
+Temas puntuales de la sección
+¿Qué veremos en esta sección?
+
+Node
+
+Express
+
+Mongoose
+
+Modelos
+
+Controllers
+
+Middlewares de Express
+
+JWT
+
+Autenticación pasiva
+
+Payloas
+
+Encriptación
+
+Rutas
+
+CORS
+
+Revalidar tokens
+
+MongoDB
+
+MongoAtlas
+
+MongoCompass
+
+Es una sección bastante pesada en el aspecto de que no es React lo que veremos, pero todo lo haremos con JavaScript, y ya debemos de estar familiarizados con él.
+
+El backend que haremos aquí es robusto y lo podrían utilizar en proyectos reales, espero que lo aprovechen y sobre todo aprendan bastante.
+
+## INDICACIONES
+
+- Repositorio con codigo fuente de la seccion
+  • Enlace -> ( https://github.com/Klerith/MERN-Calendar-Backend/releases/tag/v1.0.0 )
+  • Fin -> 12-09-2021 / 12:40
+
+- Como creamos nuestras variables de entorno
+  • Creamos el archivo .env
+  • Instalamos el paquete que hara postible utlizar estas varibles -> npm i dotenv
+  • Para poder ver las variables de entorno que estan corriendo en node imprime ( console.log ) -> process.env
+
+- Validar formularios
+  • Obvio ya existe un paquete que nos ayude con las validaciones -> npm i express-validator
+
+- Conectarme a la DB
+  • Credenciales : { user: mern_user, passwrod: kt1fOXgVmP7hUAAo }
+  • Instalar mongoose -> npm i mongoose
+
+- Para que sriven los CORS  
+   • Docs -> ( https://www.npmjs.com/package/cors )
+  • npm i cors
+  • Para añadir una capa extra de segurdiad a nuestras Rutas
+  • Con esto podras entre otras cosas restrigir el acceso a ciertas IP
+
+=================================================
+================ \*FIN SECCION 24 ===============
+=================================================
+
+=================================================
+==================== SECCION 25 =================
+=================================================
+Temas puntuales de la sección
+¿Qué veremos en esta sección?
+
+CRUD completo de eventos de calendario
+
+Modelos
+
+Validaciones automáticas
+
+Validaciones personalizadas
+
+Aquí trabajaremos creando todo lo necesario para que podamos insertar, actualiza y eliminar información relacionada a los eventos que nuestra aplicación del calendario necesitará.
+
+## INDICACIONES
+
+- Repositorio con codigo fuente de la seccion
+  • Enlace -> ( https://github.com/Klerith/MERN-Calendar-Backend/releases/tag/v2.0.0 )
+  • Fin -> 13-09-2021 / 15:44
+
+=================================================
+================ \*FIN SECCION 25 ===============
+=================================================
+
+=================================================
+================ SECCION 26 ===============
+=================================================
+
+Temas puntuales de la sección
+¿Qué veremos en esta sección?
+
+Despliegues de Node hacia Heroku
+
+Git
+
+Generar nuestra aplicación de React para producción
+
+Revisar LOGS de Heroku
+
+Es una sección corta pero enfocada en que puedan desplegar todo su trabajo en un hosting que les permita compartir todo su trabajo a cualquier persona y usar su aplicación en cualquier lugar del mundo.
+
+## INDICACIONES
+
+=================================================
+================ \*FIN SECCION 26 ===============
+=================================================
